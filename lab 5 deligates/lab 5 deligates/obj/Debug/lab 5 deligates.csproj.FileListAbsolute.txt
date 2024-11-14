@@ -1,0 +1,8 @@
+C:\Users\Dell\OneDrive - Everest Engineering College\4th sem\Programming Technology\lab\lab 5 deligates\lab 5 deligates\bin\Debug\lab 5 deligates.exe.config
+C:\Users\Dell\OneDrive - Everest Engineering College\4th sem\Programming Technology\lab\lab 5 deligates\lab 5 deligates\bin\Debug\lab 5 deligates.exe
+C:\Users\Dell\OneDrive - Everest Engineering College\4th sem\Programming Technology\lab\lab 5 deligates\lab 5 deligates\bin\Debug\lab 5 deligates.pdb
+C:\Users\Dell\OneDrive - Everest Engineering College\4th sem\Programming Technology\lab\lab 5 deligates\lab 5 deligates\obj\Debug\lab 5 deligates.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive - Everest Engineering College\4th sem\Programming Technology\lab\lab 5 deligates\lab 5 deligates\obj\Debug\lab 5 deligates.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\OneDrive - Everest Engineering College\4th sem\Programming Technology\lab\lab 5 deligates\lab 5 deligates\obj\Debug\lab 5 deligates.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive - Everest Engineering College\4th sem\Programming Technology\lab\lab 5 deligates\lab 5 deligates\obj\Debug\lab 5 deligates.exe
+C:\Users\Dell\OneDrive - Everest Engineering College\4th sem\Programming Technology\lab\lab 5 deligates\lab 5 deligates\obj\Debug\lab 5 deligates.pdb
